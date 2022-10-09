@@ -1,4 +1,0 @@
-﻿  main.c
-c:\users\sa\desktop\home work\first_grade\ch2 hw\lab 4.16\main.c(5): warning C4101: 'y': 未參考的區域變數
-c:\users\sa\desktop\home work\first_grade\ch2 hw\lab 4.16\main.c(5): warning C4101: 'x': 未參考的區域變數
-  Lab 4.16.vcxproj -> C:\Users\sa\Desktop\Home work\first_grade\CH2 HW\Lab 4.16\Debug\Lab 4.16.exe
