@@ -1,5 +1,0 @@
-﻿  main.c
-c:\users\sa\desktop\home work\first_grade\ch2 hw\lab 4.15\main.c(15): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
-c:\users\sa\desktop\home work\first_grade\ch2 hw\lab 4.15\main.c(15): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
-c:\users\sa\desktop\home work\first_grade\ch2 hw\lab 4.15\main.c(12): warning C4101: 'Fin': 未參考的區域變數
-  Lab 4.15.vcxproj -> C:\Users\sa\Desktop\Home work\first_grade\CH2 HW\Lab 4.15\Debug\Lab 4.15.exe
