@@ -1,0 +1,6 @@
+﻿  Lab 5.28.c
+j:\大學\大一\程設\ch3\ch3 hw\lab 5.28\lab 5.28.c(9): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+  j:\大學\大一\程設\ch3\ch3 hw\lab 5.28\lab 5.28.c(9): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  j:\大學\大一\程設\ch3\ch3 hw\lab 5.28\lab 5.28.c(9): note: 缺少 variadic 引數 2 (其為格式字串 '%c' 所需)
+  j:\大學\大一\程設\ch3\ch3 hw\lab 5.28\lab 5.28.c(9): note: 此引數可用為緩衝區大小
+  Lab 5.28.vcxproj -> J:\大學\大一\程設\CH3\CH3 HW\Lab 5.28\Debug\Lab 5.28.exe

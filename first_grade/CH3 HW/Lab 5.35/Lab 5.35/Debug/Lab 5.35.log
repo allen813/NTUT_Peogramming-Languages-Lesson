@@ -1,0 +1,9 @@
+﻿  Lab 5.35.c
+j:\大學\大一\程設\ch3\ch3 hw\lab 5.35\lab 5.35.c(14): warning C4018: '<=': signed/unsigned 不相符
+j:\大學\大一\程設\ch3\ch3 hw\lab 5.35\lab 5.35.c(16): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 '__int64'
+  j:\大學\大一\程設\ch3\ch3 hw\lab 5.35\lab 5.35.c(16): note: 請考慮在格式字串中使用 '%lld'
+  j:\大學\大一\程設\ch3\ch3 hw\lab 5.35\lab 5.35.c(16): note: 請考慮在格式字串中使用 '%I64d'
+j:\大學\大一\程設\ch3\ch3 hw\lab 5.35\lab 5.35.c(18): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 '__int64'
+  j:\大學\大一\程設\ch3\ch3 hw\lab 5.35\lab 5.35.c(18): note: 請考慮在格式字串中使用 '%lld'
+  j:\大學\大一\程設\ch3\ch3 hw\lab 5.35\lab 5.35.c(18): note: 請考慮在格式字串中使用 '%I64d'
+  Lab 5.35.vcxproj -> J:\大學\大一\程設\CH3\CH3 HW\Lab 5.35\Debug\Lab 5.35.exe
