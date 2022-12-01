@@ -1,0 +1,5 @@
+﻿  Lab 6.33.c
+e:\大學\大一\程設\ch5\ch5 hw\lab 6.33\lab 6.33.c(26): warning C4047: '函式': 'int *' 與 'int (*)[8]' 間接取值的層級不同
+e:\大學\大一\程設\ch5\ch5 hw\lab 6.33\lab 6.33.c(26): warning C4024: 'sort': 型式和實質參數 1 不同的類型
+e:\大學\大一\程設\ch5\ch5 hw\lab 6.33\lab 6.33.c(15): warning C4716: 'sort': 必須傳回值
+  Lab 6.33.vcxproj -> E:\大學\大一\程設\CH5\CH5 HW\Lab 6.33\Debug\Lab 6.33.exe

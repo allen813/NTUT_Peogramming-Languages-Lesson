@@ -1,0 +1,4 @@
+﻿  Lab 6.33.c
+e:\大學\大一\程設\ch5\ch5 hw\lab 6.36\lab 6.33.c(25): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+e:\大學\大一\程設\ch5\ch5 hw\lab 6.36\lab 6.33.c(33): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  Lab 6.36.vcxproj -> E:\大學\大一\程設\CH5\CH5 HW\Lab 6.36\Debug\Lab 6.36.exe
