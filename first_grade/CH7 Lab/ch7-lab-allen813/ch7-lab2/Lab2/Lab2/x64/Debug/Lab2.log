@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\313-ta\desktop\ch7-lab-allen813\ch7-lab2\source\main.c(48): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\313-ta\desktop\ch7-lab-allen813\ch7-lab2\source\main.c(54): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\313-ta\desktop\ch7-lab-allen813\ch7-lab2\source\main.c(28): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\313-ta\desktop\ch7-lab-allen813\ch7-lab2\source\main.c(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+  Lab2.vcxproj -> C:\Users\313-TA\Desktop\ch7-lab-allen813\ch7-lab2\Lab2\x64\Debug\Lab2.exe
