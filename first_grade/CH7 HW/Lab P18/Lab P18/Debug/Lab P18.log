@@ -1,0 +1,6 @@
+﻿  Lab P18.c
+e:\大學\大一\程設\ch7\ch7 hw\lab p18\lab p18.c(11): warning C4473: 'fscanf_s' : 傳遞給格式字串的引數不足
+  e:\大學\大一\程設\ch7\ch7 hw\lab p18\lab p18.c(11): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  e:\大學\大一\程設\ch7\ch7 hw\lab p18\lab p18.c(11): note: 缺少 variadic 引數 2 (其為格式字串 '%s' 所需)
+  e:\大學\大一\程設\ch7\ch7 hw\lab p18\lab p18.c(11): note: 此引數可用為緩衝區大小
+  Lab P18.vcxproj -> E:\大學\大一\程設\CH7\CH7 HW\Lab P18\Debug\Lab P18.exe
